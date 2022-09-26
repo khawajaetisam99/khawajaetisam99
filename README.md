@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khawajaetisam99
-- 👀 I’m interested in Mobile Applications Development
-- 🌱 Recently working on offline file sharing between devices using Wifi Direct
+- 👀 I’m interested in Mobile App Development
+- 🌱 Recently working in SwipBox -> https://github.com/etisamzafarswipbox
 - 📫 You can send me email at khawajaetisam99@gmail.com or call me at +923219538730
 
 <!---
